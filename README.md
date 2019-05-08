@@ -1,14 +1,11 @@
 # Bootstrapping Challenge
 
-## Instructions
+## Variable of Interest
 
-With your pair partner, use bootstrapping to estimate a confidence interval for a statistic that's of interest to you in your Mod 2 project.
+We want to look at the 5th percentile of percentage of A's for classes at UW Madison from 2006-2017.
 
-* Fork this repo.
-* Create a new notebook documenting the process.
-* Replace this README file with one that documents your work and includes a link to your notebook.
-* Add, commit, and push your changes.
-* Share a link to your fork in #seattle-ds-040119-git
+We chose the 5th percentile because we wanted to look at the lowest amount of A's given as we are looking for differences in the ratio of A's in our mod 2 project.
+
 
 ## Resources
 
